@@ -2,6 +2,7 @@
 - This repo is not in use at the moment.
 - I’m looking to collaborate on algorithm designs, especially if related to signal processing, automated classification, embedded  artificial intelligence or other semi-intelligent systems.
 - The best way to reach me is currently by LinkedIn.
+linkedin.com/in/janheldal
 
 
 <!---
